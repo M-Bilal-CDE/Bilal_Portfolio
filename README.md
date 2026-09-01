@@ -38,11 +38,18 @@
 
 ---
 
-### 📊 Current Focus & Journey
+### 📊 GitHub Activity & Statistics
 
-- 🐍 **Python:** Working through Data Structures, Functions, and OOP concepts.
-- 🗄️ **Databases:** Building efficient SQL queries & schema design.
-- ☁️ **Cloud:** Configuring cloud environments for data processing pipelines.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Bilal-CDE&show_icons=true&theme=tokyonight&hide_border=true" alt="Bilal's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bilal-CDE&theme=tokyonight&hide_border=true" alt="Bilal's Streak Stats" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bilal-CDE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
