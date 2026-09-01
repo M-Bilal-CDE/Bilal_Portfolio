@@ -41,14 +41,11 @@
 ### 📊 GitHub Activity & Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bilal-CDE&show_icons=true&theme=tokyonight&hide_border=true" alt="Bilal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bilal-CDE&theme=tokyonight&hide_border=true" alt="Bilal's Streak Stats" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bilal-CDE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Bilal-CDE&show_icons=true&theme=tokyonight" alt="Bilal's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bilal-CDE&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bilal-CDE&theme=tokyonight" alt="Bilal's Streak Stats" />
 </div>
 
 ---
