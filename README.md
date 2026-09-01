@@ -23,13 +23,13 @@
 
 ### 🛠️ Tech Stack & Tools
 
-**Languages & Data Analysis:**
+**Languages & Data Analysis:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Cloud & DevOps Tools:**
+**Cloud & DevOps Tools:**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -38,21 +38,18 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 📊 GitHub Activity & Real-time Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Bilal-CDE&show_icons=true&theme=tokyonight&hide_border=true" alt="Bilal's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Bilal-CDE&theme=tokyonight&hide_border=true" alt="Bilal's Streak Stats" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Bilal-CDE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=M-Bilal-CDE&show_icons=true&theme=dracula" alt="Bilal's GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api/top-langs/?username=M-Bilal-CDE&layout=compact&theme=dracula" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer"/>
+  <br/>
   <i>"Consistency beats intensity every single time. Start small, code daily!" 🚀</i>
 </div>
